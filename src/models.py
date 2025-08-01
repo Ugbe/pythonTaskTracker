@@ -10,3 +10,4 @@ class Task:
         self.archived = archived
         self.priority = priority
     
+>>>>>>> e961c852c9765956ac44b914212cd55b5d7f0598
